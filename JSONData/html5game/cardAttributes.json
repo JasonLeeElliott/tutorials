@@ -1,0 +1,82 @@
+[
+  {
+    "ID":1,
+    "NAME":"Big Sun",
+    "RARITY":0,
+    "DEF":1,
+    "ATK":0,
+    "IMAGE":"spr_BigSun",
+    "PHASE":"ATTACK",
+    "FLAVOR":"Two times the fun"
+  },
+  {
+    "ID":2,
+    "NAME":"Bunny",
+    "RARITY":0,
+    "DEF":1,
+    "ATK":2,
+    "IMAGE":"spr_Bunny",
+    "PHASE":"ATTACK",
+    "FLAVOR":"Cuts like a knife"
+  },
+  {
+    "ID":3,
+    "NAME":"Doggy",
+    "RARITY":2,
+    "DEF":1,
+    "ATK":0,
+    "IMAGE":"spr_Dog",
+    "PHASE":"DEFENCE",
+    "FLAVOR":"Power up the shields"
+  },
+  {
+    "ID":4,
+    "NAME":"Dove",
+    "RARITY":1,
+    "DEF":1,
+    "ATK":0,
+    "IMAGE":"spr_Dove",
+    "PHASE":"INSTANT",
+    "FLAVOR":"Power up with energy"
+  },
+  {
+    "ID":5,
+    "NAME":"LightBulb",
+    "RARITY":0,
+    "DEF":1,
+    "ATK":0,
+    "IMAGE":"spr_LightBulb",
+    "PHASE":"DEFENCE",
+    "FLAVOR":"Distraction of the future"
+  },
+  {
+    "ID":6,
+    "NAME":"Paw Print",
+    "RARITY":0,
+    "DEF":1,
+    "ATK":0,
+    "IMAGE":"spr_PawPrint",
+    "PHASE":"INSTANT",
+    "FLAVOR":"Brand new batteries"
+  },
+  {
+    "ID":7,
+    "NAME":"Puzzle",
+    "RARITY":1,
+    "DEF":1,
+    "ATK":5,
+    "IMAGE":"spr_Puzzle",
+    "PHASE":"ATTACK",
+    "FLAVOR":"Rain down upon thy enemy"
+  },
+  {
+    "ID":8,
+    "NAME":"Trophy",
+    "RARITY":1,
+    "DEF":1,
+    "ATK":4,
+    "IMAGE":"spr_Trophy",
+    "PHASE":"ATTACK",
+    "FLAVOR":"More than just a nagging wife"
+  }
+]
